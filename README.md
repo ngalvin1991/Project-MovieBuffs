@@ -71,7 +71,7 @@ Giphy API - https://developers.giphy.com
 
 ---
 ## Deployed-Page
-https://mbzaig.github.io/Project-MovieBuffs/
+https://ngalvin1991.github.io/Project-MovieBuffs/
 
 ---
 ## Built With
